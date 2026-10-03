@@ -1,6 +1,6 @@
 # DAM2-Atividade2
 
-Projeto de aplicativo desenvolvido em React Native para Atividade 2 da disciplina de Desenvolvimento de Aplicações Móveis II. Este repositório foi criado a partir do projeto base fornecido pelo professor Flávio Augusto de Freitas para a atividade: [Coach4Me](https://github.com/zz4fff/react-native-coach4me).
+Projeto de aplicativo desenvolvido em **React Native** para Atividade 2 da disciplina de Desenvolvimento de Aplicações Móveis II. Este repositório foi criado a partir do projeto base fornecido pelo professor Flávio Augusto de Freitas para a atividade: [Coach4Me](https://github.com/zz4fff/react-native-coach4me).
 
 
 O projeto é uma plataforma que conecta alunos a coaches (professores), com três partes:
@@ -177,7 +177,7 @@ Os botões do `react-native-gesture-handler` 1.x (`RectButton`, `BorderlessButto
 
 ## Vídeo explicativo no YouTube (não listado):
 
-[https://youtu.be/](https://youtu.be/)
+[https://youtu.be/85BR4zM7Xk0](https://youtu.be/85BR4zM7Xk0)
 
 ## Autor
 
